@@ -6,10 +6,10 @@
     <data>
         <variable
             name="track"
-            type="com.example.tonezone.network.Track" />
+            type="com.example.spotifyclone.network.Track" />
         <variable
             name="clickListener"
-            type="com.example.tonezone.adapter.LibraryAdapter.OnClickListener" />
+            type="com.example.spotifyclone.adapter.LibraryAdapter.OnClickListener" />
     </data>
 
         <RelativeLayout

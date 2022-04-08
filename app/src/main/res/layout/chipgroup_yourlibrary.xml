@@ -4,17 +4,17 @@
     <data>
         <variable
             name="playlistData"
-            type="com.example.tonezone.network.Playlists" />
+            type="com.example.spotifyclone.network.Playlists" />
         <variable
             name="artistData"
-            type="com.example.tonezone.network.Artists" />
+            type="com.example.spotifyclone.network.Artists" />
         <variable
             name="trackData"
-            type="com.example.tonezone.network.Tracks" />
+            type="com.example.spotifyclone.network.Tracks" />
 
         <variable
             name="albumData"
-            type="com.example.tonezone.network.Albums" />
+            type="com.example.spotifyclone.network.Albums" />
     </data>
 
     <com.google.android.material.chip.ChipGroup

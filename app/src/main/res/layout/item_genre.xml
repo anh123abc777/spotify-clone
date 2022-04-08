@@ -4,11 +4,11 @@
     <data>
         <variable
             name="category"
-            type="com.example.tonezone.network.Category" />
+            type="com.example.spotifyclone.network.Category" />
 
         <variable
             name="clickListener"
-            type="com.example.tonezone.adapter.GenreAdapter.OnClickListener" />
+            type="com.example.spotifyclone.adapter.GenreAdapter.OnClickListener" />
     </data>
 
     <RelativeLayout

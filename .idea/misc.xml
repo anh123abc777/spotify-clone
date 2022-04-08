@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ToneZone/app/src/main/res/layout/activity_main.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/chipgroup_yourlibrary.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/fragment_artist_details.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/fragment_home.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/fragment_login.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/fragment_player_screen.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/fragment_playlist_details.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/fragment_playlists.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/item_bottom_sheet.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/item_genre.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/item_playlist_in_grid.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/item_playlist_in_list.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/item_track.xml" value="0.2557291666666667" />
+        <entry key="..\:/ToneZone/app/src/main/res/layout/option_display_list.xml" value="0.2557291666666667" />
         <entry key="..\:/Users/haohao/Documents/Kotlin/TRAINING/ToneZone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.178" />
         <entry key="..\:/Users/haohao/Documents/Kotlin/TRAINING/ToneZone/app/src/main/res/drawable/border_artist.xml" value="0.1625" />
         <entry key="..\:/Users/haohao/Documents/Kotlin/TRAINING/ToneZone/app/src/main/res/drawable/border_avt_playlist.xml" value="0.178" />

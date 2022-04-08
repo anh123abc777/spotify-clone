@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.tonezone.yourlibrary.YourLibraryViewModel" />
+            type="com.example.spotifyclone.yourlibrary.YourLibraryViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="8dp"
-        tools:context=".yourplaylist.YourPlaylistFragment">
+        tools:context="com.example.spotifyclone.yourplaylist.YourPlaylistFragment">
 
         <com.google.android.material.appbar.AppBarLayout
             android:id="@+id/appBarLayout"

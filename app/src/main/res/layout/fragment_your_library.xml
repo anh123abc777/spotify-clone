@@ -6,14 +6,14 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.tonezone.yourlibrary.YourLibraryViewModel" />
+            type="com.example.spotifyclone.yourlibrary.YourLibraryViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:id="@+id/coordinator"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".yourlibrary.YourLibraryFragment"
+        tools:context="com.example.spotifyclone.yourlibrary.YourLibraryFragment"
         android:orientation="vertical"
         android:paddingTop="8dp"
         android:paddingBottom="8dp"

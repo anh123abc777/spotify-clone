@@ -6,7 +6,7 @@
     <data>
         <variable
             name="groupPlaylist"
-            type="com.example.tonezone.network.GroupPlaylist" />
+            type="com.example.spotifyclone.network.GroupPlaylist" />
     </data>
 
     <LinearLayout

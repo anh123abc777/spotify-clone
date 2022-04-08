@@ -13,10 +13,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ToneZone">
-        <meta-data android:name="com.example.tonezone.utils.GlideConfiguration"
+        <meta-data android:name="com.example.spotifyclone.utils.GlideConfiguration"
             android:value="AppGlideModule"/>
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.spotifyclone.MainActivity"
             android:exported="true"
             android:launchMode="singleInstance"
             >

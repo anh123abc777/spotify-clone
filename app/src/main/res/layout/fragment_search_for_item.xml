@@ -6,17 +6,17 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.tonezone.search.searchfoitem.SearchForItemViewModel" />
+            type="com.example.spotifyclone.search.searchfoitem.SearchForItemViewModel" />
         <variable
             name="sortOption"
-            type="com.example.tonezone.yourlibrary.SortOption" />
+            type="com.example.spotifyclone.yourlibrary.SortOption" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:id="@+id/coordinator"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".search.searchfoitem.SearchForItemFragment"
+        tools:context="com.example.spotifyclone.search.searchfoitem.SearchForItemFragment"
         android:orientation="vertical">
 
         <com.google.android.material.appbar.AppBarLayout

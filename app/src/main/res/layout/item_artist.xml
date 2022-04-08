@@ -5,10 +5,10 @@
     <data>
         <variable
             name="artist"
-            type="com.example.tonezone.network.Artist" />
+            type="com.example.spotifyclone.network.Artist" />
         <variable
             name="clickListener"
-            type="com.example.tonezone.adapter.LibraryAdapter.OnClickListener" />
+            type="com.example.spotifyclone.adapter.LibraryAdapter.OnClickListener" />
     </data>
 
     <RelativeLayout

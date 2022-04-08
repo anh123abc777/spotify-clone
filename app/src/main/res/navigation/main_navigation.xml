@@ -11,7 +11,7 @@
     <include app:graph="@navigation/home" />
     <fragment
         android:id="@+id/loginFragment"
-        android:name="com.example.tonezone.login.LoginFragment"
+        android:name="com.example.spotifyclone.login.LoginFragment"
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" />
 

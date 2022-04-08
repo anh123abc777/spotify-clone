@@ -6,13 +6,13 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.tonezone.home.HomeViewModel" />
+            type="com.example.spotifyclone.home.HomeViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".home.HomeFragment">
+        tools:context="com.example.spotifyclone.home.HomeFragment">
 
 
         <com.google.android.material.appbar.AppBarLayout

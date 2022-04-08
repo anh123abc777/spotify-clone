@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/searchFragment"
-        android:name="com.example.tonezone.search.SearchFragment"
+        android:name="com.example.spotifyclone.search.SearchFragment"
         android:label="SearchFragment"
         tools:layout="@layout/fragment_search"
         >
@@ -20,7 +20,7 @@
     </fragment>
     <fragment
         android:id="@+id/searchForItemFragment"
-        android:name="com.example.tonezone.search.searchfoitem.SearchForItemFragment"
+        android:name="com.example.spotifyclone.search.searchfoitem.SearchForItemFragment"
         android:label="SearchForItemFragment"
         tools:layout="@layout/fragment_search_for_item"
         >
@@ -33,7 +33,7 @@
     </fragment>
     <fragment
         android:id="@+id/playlistsFragment"
-        android:name="com.example.tonezone.playlists.PlaylistsFragment"
+        android:name="com.example.spotifyclone.playlists.PlaylistsFragment"
         android:label="PlaylistsFragment"
         tools:layout="@layout/fragment_playlists"
         >
@@ -42,24 +42,24 @@
             app:destination="@id/playlistDetailsFragment" />
         <argument
             android:name="playlistInfo"
-            app:argType="com.example.tonezone.network.PlaylistInfo" />
+            app:argType="com.example.spotifyclone.network.PlaylistInfo" />
     </fragment>
     <fragment
         android:id="@+id/playlistDetailsFragment"
-        android:name="com.example.tonezone.playlistdetails.PlaylistDetailsFragment"
+        android:name="com.example.spotifyclone.playlistdetails.PlaylistDetailsFragment"
         android:label="PlaylistDetailsFragment"
         tools:layout="@layout/fragment_playlist_details"
         >
         <argument
             android:name="playlistInfo"
-            app:argType="com.example.tonezone.network.PlaylistInfo" />
+            app:argType="com.example.spotifyclone.network.PlaylistInfo" />
         <action
             android:id="@+id/action_playlistDetailsFragment_to_yourPlaylistFragment"
             app:destination="@id/yourPlaylistFragment" />
     </fragment>
     <fragment
         android:id="@+id/yourPlaylistFragment"
-        android:name="com.example.tonezone.yourplaylist.YourPlaylistFragment"
+        android:name="com.example.spotifyclone.yourplaylist.YourPlaylistFragment"
         android:label="YourPlaylistFragment"
         tools:layout="@layout/fragment_your_playlist"
         >
@@ -69,11 +69,11 @@
     </fragment>
     <fragment
         android:id="@+id/artistDetailsFragment"
-        android:name="com.example.tonezone.artistdetails.ArtistDetailsFragment"
+        android:name="com.example.spotifyclone.artistdetails.ArtistDetailsFragment"
         android:label="ArtistDetailsFragment" >
         <argument
             android:name="playlistInfo"
-            app:argType="com.example.tonezone.network.PlaylistInfo" />
+            app:argType="com.example.spotifyclone.network.PlaylistInfo" />
         <action
             android:id="@+id/action_artistDetailsFragment_to_playlistDetailsFragment"
             app:destination="@id/playlistDetailsFragment" />

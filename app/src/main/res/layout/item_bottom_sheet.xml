@@ -5,10 +5,10 @@
     <data>
         <variable
             name="signal"
-            type="com.example.tonezone.utils.Signal" />
+            type="com.example.spotifyclone.utils.Signal" />
         <variable
             name="clickListener"
-            type="com.example.tonezone.adapter.BottomSheetItemAdapter.OnClickListener" />
+            type="com.example.spotifyclone.adapter.BottomSheetItemAdapter.OnClickListener" />
     </data>
 
     <Button

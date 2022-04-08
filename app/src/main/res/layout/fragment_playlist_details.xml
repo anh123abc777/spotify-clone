@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.tonezone.playlistdetails.PlaylistDetailsViewModel" />
+            type="com.example.spotifyclone.playlistdetails.PlaylistDetailsViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -68,7 +68,7 @@
                 android:id="@+id/content_container"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                tools:context=".playlistdetails.PlaylistDetailsFragment"
+                tools:context="com.example.spotifyclone.playlistdetails.PlaylistDetailsFragment"
                 android:orientation="vertical"
                 android:padding="8dp"
                 >

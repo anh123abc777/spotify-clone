@@ -6,13 +6,13 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.tonezone.player.PlayerScreenViewModel" />
+            type="com.example.spotifyclone.player.PlayerScreenViewModel" />
     </data>
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".player.PlayerScreenFragment"
+        tools:context="com.example.spotifyclone.player.PlayerScreenFragment"
         android:padding="16dp"
         >
 

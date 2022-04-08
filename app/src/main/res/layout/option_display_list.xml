@@ -4,7 +4,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.tonezone.yourlibrary.YourLibraryViewModel" />
+            type="com.example.spotifyclone.yourlibrary.YourLibraryViewModel" />
     </data>
 
     <RelativeLayout

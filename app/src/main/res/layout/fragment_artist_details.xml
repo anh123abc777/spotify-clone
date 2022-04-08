@@ -6,14 +6,14 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.tonezone.artistdetails.ArtistDetailsViewModel" />
+            type="com.example.spotifyclone.artistdetails.ArtistDetailsViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
         android:id="@+id/coordinator"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".artistdetails.ArtistDetailsFragment">
+        tools:context="com.example.spotifyclone.artistdetails.ArtistDetailsFragment">
 
         <com.google.android.material.appbar.AppBarLayout
             android:id="@+id/appBarLayout"

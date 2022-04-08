@@ -5,7 +5,7 @@
     <data>
         <variable
             name="playerViewModel"
-            type="com.example.tonezone.player.PlayerScreenViewModel" />
+            type="com.example.spotifyclone.player.PlayerScreenViewModel" />
     </data>
 
     <RelativeLayout
